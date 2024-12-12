@@ -1,0 +1,14 @@
+Neutral/Informational: 192
+Apology/Regret: 7
+Concern/Worry: 5
+Sadness: 29
+Hopefulness: 48
+Anxiety/Fear: 7
+Vulnerability: 31
+Regret: 8
+Encouragement/Reassurance: 97
+Affection/Love: 91
+Humorous/Playful: 143
+Longing/Desire: 90
+Gratitude: 13
+Anger/Frustration: 3

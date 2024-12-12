@@ -3,8 +3,8 @@ import glob
 import os
 
 def aggregate_json_files(output_filename="aggregated.json", sentiment_output_filename="sentiment_counts.txt"):
-    # Get all JSON files in the current directory
-    json_files = glob.glob("*.json")
+    # Get all JSON files in the same directory as the script
+    json_files = glob.glob(os.path.join(os.path.dirname(__file__), "*.json"))
     
     # This will hold all messages from all chunks
     all_messages = []
